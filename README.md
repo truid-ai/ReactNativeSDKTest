@@ -37,3 +37,5 @@ In the Xcode workspace, go to `File -> Packages -> Resolve Package Versions`
 Click the play button in Xcode to run the project
 
 NOTE: The project works on real devices only. Make sure to select a real device before running the project.
+
+> For this test project, the results are printed on console. If you want to deal with the results, you can modify the code in `Home.jsx` file.
