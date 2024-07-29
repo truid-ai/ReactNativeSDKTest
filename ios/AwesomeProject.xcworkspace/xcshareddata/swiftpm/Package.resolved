@@ -1,0 +1,33 @@
+{
+  "originHash" : "f600153f47b2a35e2658fa3f46db71f60ac64ee466cc02af0db531b8da19c860",
+  "pins" : [
+    {
+      "identity" : "tensorflowlitec",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kewlbear/TensorFlowLiteC.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "535e9f113b68e866a7e229e17f717d57cdc81be6"
+      }
+    },
+    {
+      "identity" : "tensorflowliteswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kewlbear/TensorFlowLiteSwift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "73c997b5ee87ffba411048b51e886582358b33a3"
+      }
+    },
+    {
+      "identity" : "truidpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/truid-ai/TruIDPackage.git",
+      "state" : {
+        "branch" : "nadra",
+        "revision" : "f6dbedb5fbd9256afae82fd82b0f6b305e612c35"
+      }
+    }
+  ],
+  "version" : 3
+}
