@@ -23,7 +23,7 @@ npx pod-install
 
 ## Step 4: Validate swift packages
 
-In the Xcode workspace, go to `File -> Swift Packages -> Resolve Package Versions`
+In the Xcode workspace, go to `File -> Packages -> Resolve Package Versions`
 
 ## Step 5: Run the project
 
