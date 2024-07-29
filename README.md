@@ -25,7 +25,14 @@ npx pod-install
 
 In the Xcode workspace, go to `File -> Packages -> Resolve Package Versions`
 
-## Step 5: Run the project
+## Step 5: Sign the app with your Apple ID
+
+1. In Xcode, select the project in the navigator
+1. Go to `General`
+1. Go to `Signing & Capabilities`
+1. Select your team from the dropdown
+
+## Step 6: Run the project
 
 Click the play button in Xcode to run the project
 
